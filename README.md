@@ -19,6 +19,9 @@
 # Prerequisites
 - Xammp server (https://www.apachefriends.org/download.html)
 - Any Integrated Development Environment ( Better to use Apache Net Beans https://netbeans.apache.org/)
+- HTML,CSS,JAVASCRIPT
+- PHP
+- MySQL database
 # Follow these Steps 
 - First import my eshopdb.sql file in http://localhost/phpmyadmin/
 - Then download my e-shop folder 
@@ -26,7 +29,6 @@
   -  Run the index.php file
   - Create an Account
   - And Login
-# Screen SHOTS
 # Skills Required
 - Front-end
 - HTML
@@ -34,9 +36,8 @@
 - JAVASCRIPT
 - PHP
 - MySQL
-- 
-## Authors
 
+## Authors
 - [@kartheek-v](https://github.com/kartheek-v)
 
 
