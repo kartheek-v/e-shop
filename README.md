@@ -32,6 +32,12 @@
 - CSS
 - JAVASCRIPT
 - PHP
-- MySQL 
+- MySQL
+- 
+## Authors
+
+- [@octokatherine](https://github.com/kartheek-v)
+
+
   
 
