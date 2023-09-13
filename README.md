@@ -7,17 +7,31 @@
 - [ e-Shop Presentaion](https://github.com/kartheek-v/e-shop/files/12597484/e-SHOP.pptx)
 
 # Website features
-- User friendly interface
+- User-friendly interface
 - Product Search
-- Product catalog
+- Product Catalog
 - Add to cart
-- View product Specifications
+- View Product Specifications
 - Buy product
 # Admin Functions
-- Add Products
-- Add that product Specifications Using product id
+- Add Products using (add_product.php file)
+- Add that product Specifications Using Product ID(TV_Specifiacation.php) file or (mobileSpecification.php)
 # Prerequisites
 - Xammp server (https://www.apachefriends.org/download.html)
-- import my e-shop db
-
+- Any Integrated Development Environment ( Better to use Apache Net Beans https://netbeans.apache.org/)
+# Follow these Steps 
+- First import my eshopdb.sql file in http://localhost/phpmyadmin/
+- Then download my e-shop folder
+- - Run the index.php file
+  - Create an Account
+  - And Login
+# Screen SHOTS
+# Skills Required
+- Front-end
+- HTML
+- CSS
+- JAVASCRIPT
+- PHP
+- MySQL 
+  
 
