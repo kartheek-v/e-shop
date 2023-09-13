@@ -36,7 +36,7 @@
 - 
 ## Authors
 
-- [@octokatherine](https://github.com/kartheek-v)
+- [@kartheek-v](https://github.com/kartheek-v)
 
 
   
