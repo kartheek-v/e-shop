@@ -1,4 +1,5 @@
-# e-shop is an e-commerce website using PHP and MySql database
+# e-shop 
+It is  an e-commerce website using PHP and MySql database
 
 
 ![newlogo](https://github.com/kartheek-v/e-shop/assets/144913141/11ae1525-c7e2-4b06-b2a3-b3885562b67a)
