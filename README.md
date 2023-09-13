@@ -21,8 +21,9 @@
 - Any Integrated Development Environment ( Better to use Apache Net Beans https://netbeans.apache.org/)
 # Follow these Steps 
 - First import my eshopdb.sql file in http://localhost/phpmyadmin/
-- Then download my e-shop folder
-- - Run the index.php file
+- Then download my e-shop folder 
+- - First Go C:\xampp\htdocs\e-shop
+  -  Run the index.php file
   - Create an Account
   - And Login
 # Screen SHOTS
